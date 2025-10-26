@@ -1,0 +1,12 @@
+ImageWidth : 2304
+ImageLength : 4096
+GPSInfo : 1134
+ResolutionUnit : 2
+ExifOffset : 220
+Make : OnePlus
+Model : OnePlus Ace 5 Pro
+Orientation : 1
+DateTime : 2025:10:12 20:31:53
+YCbCrPositioning : 1
+XResolution : 72.0
+YResolution : 72.0
